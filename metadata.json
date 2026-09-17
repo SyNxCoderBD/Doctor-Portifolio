@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Julian Vance, MD - Medical Practice & Portfolio",
+  "description": "Comprehensive medical practice website with an in-page frontend visual builder, 12+ specialty presets, real-time Firestore persistence, and appointment scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
